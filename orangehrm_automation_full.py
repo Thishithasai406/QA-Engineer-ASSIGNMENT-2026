@@ -143,7 +143,6 @@ def main():
     employees = [
         ("Thishitha", "Sai"),
         ("bellamkonda", "T"),
-        ("harsha", "vardhan"),
         ("sri", "lakshmi"),
     ]
 
